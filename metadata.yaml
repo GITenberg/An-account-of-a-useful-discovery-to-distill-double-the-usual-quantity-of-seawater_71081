@@ -1,0 +1,26 @@
+_repo: An-account-of-a-useful-discovery-to-distill-double-the-usual-quantity-of-seawater_71081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hales, Stephen
+    gutenberg_agent_id: '56067'
+    url: http://www.gutenberg.org/2009/agents/56067
+description: ''
+gutenberg_issued: '2023-07-01'
+identifiers:
+  gutenberg: '71081'
+language: en
+pgterms:marc904: https://archive.org/details/b30532140
+pgterms:marc905: 20230430110740hales
+pgterms:marc906: '1756'
+pgterms:marc907: GB
+production_note: SF2001 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bRichard Manby, $c1756.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An account of a useful discovery to distill double the usual quantity of seawater
+url: http://www.gutenberg.org/ebooks/71081
