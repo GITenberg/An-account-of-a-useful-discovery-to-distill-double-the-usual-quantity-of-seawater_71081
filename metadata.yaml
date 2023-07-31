@@ -1,11 +1,16 @@
 _repo: An-account-of-a-useful-discovery-to-distill-double-the-usual-quantity-of-seawater_71081
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71081-h/images/cover.jpg
 creator:
   author:
     agent_name: Hales, Stephen
     gutenberg_agent_id: '56067'
     url: http://www.gutenberg.org/2009/agents/56067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71081#An-account-of-a-useful-discovery-to-distill-double-the-usual-quantity-of-seawater
 gutenberg_issued: '2023-07-01'
 identifiers:
   gutenberg: '71081'
